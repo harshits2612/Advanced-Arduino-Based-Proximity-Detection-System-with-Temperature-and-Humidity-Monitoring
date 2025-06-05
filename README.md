@@ -1,5 +1,4 @@
-# Arduino Based Distance Measuring System Integrated with Temperature and Humidity Monitoring
-
+# 🚨 Advanced Arduino-Based Proximity Detection System with  Temperature and Humidity Monitoring
 This project involves an Arduino-based system that measures distance and monitors temperature and humidity. The system uses an ultrasonic sensor for distance measurement, a DHT22 sensor for temperature and humidity monitoring, and displays the results on an LCD screen. It also features LED indicators and an active buzzer for feedback.
 
 ## Features
