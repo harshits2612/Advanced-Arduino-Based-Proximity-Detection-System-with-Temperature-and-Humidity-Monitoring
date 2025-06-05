@@ -95,6 +95,7 @@ Green LED → Safe (20–50 cm)
 # 💻 Code
 Paste the provided Arduino code here — you've already written a great one. Consider wrapping it in a code block using triple backticks (```cpp) when uploading to GitHub for proper formatting.
 Code
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <DHT.h>
